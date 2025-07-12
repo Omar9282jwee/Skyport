@@ -1,1 +1,4 @@
-# skyport-panel
+# skyport panel
+```
+sudo su
+```
