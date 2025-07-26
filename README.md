@@ -19,16 +19,17 @@ bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/skyport/refs/heads
 ```
 ```
 cd skyportd
-```
+
+
 - paste your node configure
 
 ```
 pm2 start .
 ```
 ### panel relaunch
-
 ```
-1) pm2 start index
+pm2 start index
+```
 ```
 pm2 start skyportd
 ```
