@@ -5,14 +5,14 @@
 sudo su
 ```
 ```
-bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/skyport/refs/heads/main/panel)
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Skyport-Panel/refs/heads/main/panel)
 ```
 ### WINGS/NODE INSTALL
 ```
 sudo su
 ```
 ```
-bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/skyport/refs/heads/main/wings)
+bash <(curl -s https://raw.githubusercontent.com/Omar9282jwee/Skyport-Panel/refs/heads/main/wings)
 ```
 ```
 cd skyportd
